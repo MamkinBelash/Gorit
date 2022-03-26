@@ -9,7 +9,7 @@ body{
     border-left: 10rem solid;
     border-right: 10rem solid;
     border-bottom: 5rem solid;
-    border-image: url("1234.png")
+    border-image: url("/.idea/1234.png")
     80 /                    /* slice */
     7% 6% /                /* width */
     20px      /* outset */
