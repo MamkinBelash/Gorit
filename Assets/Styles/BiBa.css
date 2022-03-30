@@ -1,0 +1,245 @@
+.container {
+    max-width: 70%;
+    margin: auto;
+    padding: 5% 0 0 0;
+    border-radius: 10%;
+}
+body{
+    background-color: white;
+    font-weight: bold;
+    font-family: ISOCP;
+    font: normal 15px bold;
+}
+.TOP{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 8%;
+    padding: 0;
+    border-bottom-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    background-color: cornflowerblue;
+    border: 2px solid gray;
+    z-index: 20;
+}
+.TOP div{
+    margin-left: 5%;
+    margin-top: 10px;
+    margin-right: 5%;
+    display: inline-block;
+}
+.TOP h3{
+    position: absolute;
+    left: 50%;
+    top: 25px;
+    margin: 0 0 0 -60px;
+    font-size: 2em;
+    font-family: ISOCP;
+    padding: 0;
+}
+.text h1:first-child{
+    margin: 0 0 0 5%;
+}
+.text > div:first-child{
+    display: inline-block;
+    margin: 0 2% 0 70%;
+    max-width: 300px;
+    text-align: right;
+    font-size: 13px;
+    line-height: 2;
+}
+.text ol {
+    line-height: 2;
+    font-family: Corbel;
+    list-style-type: hiragana-iroha;
+    color: #86898f;
+}
+.box {
+    position: relative;
+    display: inline-block;
+    margin: 0 25%;
+}
+.box{
+    max-width: 600px;
+    max-height: 600px;
+    position: relative;
+    display: flex;
+}
+.QE> img{
+    border-radius: 30px;
+}
+.EQ{
+
+
+    width: 100px;
+    height: 20px;
+    margin: 20% 20%;
+}
+.Buttons{
+    position: fixed;
+    left: 0.5%;
+    top: 15%;
+    margin: 0 20px;
+    max-width: 5%;
+}
+.Button1, .Button2, .Button3, .Button4{
+    width: 130px;
+    height: 20px;
+    margin: 10px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.Buttons a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+    font-family: "Adobe Devanagari";
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.Buttons a:hover{
+    text-decoration: underline;
+}
+.Buttons a:visited{
+    text-decoration: none;
+}
+.Button1{
+    background-color: cornflowerblue;
+
+}
+.Button2{
+    background-color: palevioletred;
+
+}
+.Button3{
+    background-color: greenyellow;
+}
+.star{
+    position: relative;
+
+    padding-bottom: 100%;
+}
+.star img{
+    position: absolute;
+    max-height: 15%;
+    border-radius: 50%;
+    display: block;
+}
+#a> img{
+    top: 9%;
+    left: 42.5%;
+}
+#b> img{
+top: 33%;
+    left: 10%;
+}
+#c> img{
+    top: 33%;
+    right: 10%;
+
+}
+#d> img{
+    top: 66%;
+    right: 20%;
+
+}
+#e> img{
+    top: 66%;
+    left: 20%;
+}
+#f> img{
+    top: 42.5%;
+    left: 42.5%;
+}
+#q {
+    width: 45%;
+    position: absolute;
+    top: 57%;
+    left: 33%;
+
+    transform: rotate(-30deg);
+}
+#w {
+    width: 45%;
+    position: absolute;
+    top: 57%;
+    left: 23%;
+
+    transform: rotate(30deg);
+}
+#ee {
+    width: 45%;
+    position: absolute;
+    top: 40%;
+    left: 27.5%;
+
+    transform: rotate(0deg);
+}
+#r {
+    width: 45%;
+    position: absolute;
+    top: 43%;
+    left: 14%;
+
+    transform: rotate(-67deg);
+}
+#t {
+    width: 45%;
+    position: absolute;
+    top: 43%;
+    left: 42%;
+
+    transform: rotate(67deg);
+}
+.l, .k, .j, .h, .g, .gg{
+  position: absolute;
+  font-size: 12px;
+}
+.l{
+    left: 46%;
+    top: 7%;
+}
+.k{
+    left: 14.5%;
+    top: 30%;
+}
+.j{
+    left: 79%;
+    top: 30%;
+}
+.h{
+    left: 69.5%;
+    top: 82%;
+}
+.g{
+    left: 23.5%;
+    top: 82%;
+}
+.gg{
+    left: 45%;
+    top: 38%;
+}
+
+/*#pentagon {
+    position: relative;
+    width: 54px;
+    border-width: 50px 18px 0;
+    border-style: solid;
+    border-color: red transparent;
+}
+#pentagon:before {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -85px;
+    left: -18px;
+    border-width: 0 45px 35px;
+    border-style: solid;
+    border-color: transparent transparent red;
+}*/
+
+
