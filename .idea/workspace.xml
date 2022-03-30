@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d849716-aaba-4df6-9b5c-e67bb213c967" name="Changes" comment="LOL">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/BiBa.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/NOT WE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Screenshot_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Screenshot_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Img/Video9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/KRASOTA.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Styles/Ssilki.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiSoSihBiBu.html" beforeDir="false" afterPath="$PROJECT_DIR$/TiSoSihBiBu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssilki.html" beforeDir="false" afterPath="$PROJECT_DIR$/ssilki.html" afterDir="false" />
-    </list>
+    <list default="true" id="0d849716-aaba-4df6-9b5c-e67bb213c967" name="Changes" comment="LOL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +45,7 @@
       <workItem from="1648337310880" duration="15000" />
       <workItem from="1648337400172" duration="246000" />
       <workItem from="1648399411779" duration="846000" />
-      <workItem from="1648661598598" duration="424000" />
+      <workItem from="1648661598598" duration="573000" />
     </task>
     <task id="LOCAL-00001" summary="LOL">
       <created>1648336697949</created>
@@ -109,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648399658157</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="LOL">
+      <created>1648662043045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648662043046</updated>
+    </task>
+    <task id="LOCAL-00007" summary="LOL">
+      <created>1648662122368</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648662122368</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
